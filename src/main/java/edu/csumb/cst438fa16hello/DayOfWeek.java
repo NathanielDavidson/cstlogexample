@@ -1,5 +1,6 @@
 package edu.csumb.cst438fa16hello;
 
+import edu.csumb.cst438fa16hello.rest.HelloApplication;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.Locale;
@@ -8,7 +9,7 @@ import java.util.TimeZone;
 
 public class DayOfWeek {
     public static String day(Calendar calendar) {
-	return calendar.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale.US);
+	    return calendar.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale.US);
     }
 
     public static String today() {

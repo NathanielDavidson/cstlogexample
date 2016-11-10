@@ -1,0 +1,44 @@
+2016-11-08 18:11:56 [qtp608108604-19] INFO  Logger:21 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/what Parameters:{}
+2016-11-08 18:11:59 [qtp608108604-13] INFO  Logger:21 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/ Parameters:{}
+2016-11-08 18:12:01 [qtp608108604-18] INFO  Logger:21 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/rest/today Parameters:{}
+2016-11-08 18:12:04 [qtp608108604-14] INFO  Logger:21 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/rest/hello Parameters:{name=[pop]}
+2016-11-08 18:20:22 [qtp1872034717-15] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/hello.html Parameters:{}
+2016-11-08 18:20:23 [qtp1872034717-18] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/rest/today Parameters:{}
+2016-11-08 18:20:23 [qtp1872034717-18] DEBUG LoggerMe:22 - user requested today's date
+2016-11-08 18:20:27 [qtp1872034717-17] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/rest/hello Parameters:{name=[pop]}
+2016-11-08 18:20:27 [qtp1872034717-17] DEBUG LoggerMe:33 - valid name was entered here is the name: pop
+2016-11-08 18:20:33 [qtp1872034717-19] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/rest/today Parameters:{}
+2016-11-08 18:20:33 [qtp1872034717-19] DEBUG LoggerMe:22 - user requested today's date
+2016-11-08 18:34:51 [qtp1872034717-18] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/ Parameters:{}
+2016-11-08 18:58:02 [qtp357767349-14] DEBUG LoggerMe:33 - valid name was entered here is the name: Alan
+2016-11-08 18:58:03 [qtp1515207920-27] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 18:58:03 [qtp1345285994-38] DEBUG LoggerMe:22 - user requested today's date
+2016-11-08 18:58:03 [qtp545144829-49] DEBUG LoggerMe:33 - valid name was entered here is the name: Alan
+2016-11-08 18:58:03 [qtp1450417897-59] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 18:58:04 [qtp325918040-69] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 19:06:57 [qtp357767349-15] DEBUG LoggerMe:33 - valid name was entered here is the name: Alan
+2016-11-08 19:06:57 [qtp1515207920-30] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 19:06:57 [qtp1345285994-42] DEBUG LoggerMe:22 - user requested today's date
+2016-11-08 19:06:58 [qtp545144829-52] DEBUG LoggerMe:33 - valid name was entered here is the name: Alan
+2016-11-08 19:06:58 [qtp1450417897-62] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 19:06:58 [qtp325918040-72] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 19:10:01 [qtp357767349-15] DEBUG LoggerMe:33 - valid name was entered here is the name: Alan
+2016-11-08 19:10:02 [qtp1515207920-30] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 19:10:02 [qtp1345285994-41] DEBUG LoggerMe:22 - user requested today's date
+2016-11-08 19:10:02 [qtp1406008073-52] DEBUG LoggerMe:33 - valid name was entered here is the name: Alan
+2016-11-08 19:10:02 [qtp2008523954-63] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 19:10:02 [qtp879785129-73] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 19:22:39 [qtp357767349-15] DEBUG LoggerMe:33 - valid name was entered here is the name: Alan
+2016-11-08 19:22:39 [qtp1515207920-27] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 19:22:40 [qtp1345285994-36] DEBUG LoggerMe:22 - user requested today's date
+2016-11-08 19:22:40 [qtp545144829-49] DEBUG LoggerMe:33 - valid name was entered here is the name: Alan
+2016-11-08 19:22:40 [qtp1450417897-59] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 19:22:41 [qtp325918040-71] DEBUG LoggerMe:30 - name was empty, sent bad request
+2016-11-08 19:23:06 [qtp1332208607-19] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/ Parameters:{}
+2016-11-08 19:23:06 [qtp1332208607-12] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/jetty-dir.css Parameters:{}
+2016-11-08 19:23:19 [qtp1332208607-17] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/hello.html Parameters:{}
+2016-11-08 19:23:20 [qtp1332208607-18] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/rest/today Parameters:{}
+2016-11-08 19:23:20 [qtp1332208607-18] DEBUG LoggerMe:22 - user requested today's date
+2016-11-08 19:23:31 [qtp1332208607-14] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/rest/hello Parameters:{name=[hi]}
+2016-11-08 19:23:31 [qtp1332208607-14] DEBUG LoggerMe:33 - valid name was entered here is the name: hi
+2016-11-08 19:23:38 [qtp1332208607-16] INFO  LoggerMe:22 - Request Logged: IP:127.0.0.1 URL:http://127.0.0.1:8080/what Parameters:{}

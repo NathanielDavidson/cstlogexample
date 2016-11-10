@@ -4,4 +4,13 @@
 
 <web-app>
   <display-name>Hello Web Application</display-name>
+  <filter>
+    <filter-name>PayloadLoggingFilter</filter-name>
+    <filter-class>edu.csumb.cst438fa16hello.LoggerMe</filter-class>
+  </filter>
+
+  <filter-mapping>
+    <filter-name>PayloadLoggingFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
 </web-app>
